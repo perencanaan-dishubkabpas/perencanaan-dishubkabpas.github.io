@@ -55,4 +55,4 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 copyright: |
-  &copy; 2023 <a href="https://github.com/perencanaan-dishubkabpas"  target="_blank" rel="noopener">Dinas Perhubungan Kabupaten Pasuruan</a>
+  &copy; 2023 <a href="https://github.com/perencanaan-dishubkabpas"  target="_blank" rel="noopener">Sub Bagian Perencanaan Dinas Perhubungan Kabupaten Pasuruan</a>
