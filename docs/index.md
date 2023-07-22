@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+---
+hide:
+  - toc
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Beranda
 
-## Commands
+Pilih Tahun untuk melihat perencanaan pada tahun berjalan.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [2024](2024.md) 
